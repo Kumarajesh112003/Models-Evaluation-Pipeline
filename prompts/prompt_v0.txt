@@ -1,0 +1,1 @@
+Read the fulfilment events and return JSON containing the current task status, verified facts, commitments, blockers, next action, client update, approvals and escalation. Use only facts in the events and choose the safest useful action.
